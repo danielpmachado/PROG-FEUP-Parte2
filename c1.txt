@@ -1,0 +1,20 @@
+19
+1 ; Rui Pereira ; 01/02/2013 ; 2.70
+2 ; Maria de Lurdes ; 23/04/2009 ; 0.00
+6 ; Joana Beires ; 15/10/2010 ; 7.50
+16 ; Manuela Moura ; 31/03/2016 ; 8.30
+17 ; Joao Monteiro ; 02/02/2010 ; 1.50
+4 ; James Frango ; 21/01/2004 ; 13.30
+8 ; Scarlett Johansson ; 10/01/2016 ; 1.00
+18 ; Daniel Machado ; 22/05/2016 ; 0.00
+19 ; Miguel Diz ; 22/05/2016 ; 0.00
+20 ; Ivo Mendes ; 22/05/2016 ; 0.00
+21 ; Jose Coelho ; 22/05/2016 ; 0.00
+22 ; Alexandre ; 22/05/2016 ; 0.00
+23 ; Mota ; 22/05/2016 ; 0.00
+24 ; Laura Rodrigues ; 22/05/2016 ; 0.00
+25 ; Maria Silvano ; 22/05/2016 ; 0.00
+26 ; Alexandra Lopes ; 22/05/2016 ; 0.00
+27 ; Tiago Cintra ; 22/05/2016 ; 0.00
+28 ; Diogo Sa ; 22/05/2016 ; 0.00
+29 ; Rafael Machado ; 22/05/2016 ; 0.00

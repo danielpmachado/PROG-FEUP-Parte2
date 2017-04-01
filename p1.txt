@@ -1,0 +1,15 @@
+14 
+laranja ; 1.5 
+banana  ; 1.2 
+peixe ; 5.6 
+batatas fritas ; 0.4
+pera ; 1.1
+carne ; 3.5
+alface ; 2.3
+cenoura ; 1.9
+cereais ; 2.7
+batata ; 1.0
+agua ; 0.8
+cerveja ; 1.0
+sangria ; 2.3
+moscatel ; 4.3
